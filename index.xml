@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FireZen Studio</title>
-    <link>https://firezen-studio.github.io/dev-web/</link>
+    <link>https://firezen-studio.github.io/</link>
     <description>Recent content on FireZen Studio</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 22 Apr 2025 20:53:27 +0800</lastBuildDate>
-    <atom:link href="https://firezen-studio.github.io/dev-web/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://firezen-studio.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Private Privacy</title>
-      <link>https://firezen-studio.github.io/dev-web/privacy/</link>
+      <link>https://firezen-studio.github.io/privacy/</link>
       <pubDate>Tue, 22 Apr 2025 20:53:27 +0800</pubDate>
-      <guid>https://firezen-studio.github.io/dev-web/privacy/</guid>
+      <guid>https://firezen-studio.github.io/privacy/</guid>
       <description>&lt;p&gt;&lt;strong&gt;FireZen Studio&lt;/strong&gt; build lots of apps , such as:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.mclosamigolos.lovefishing&#34;&gt;Fish Slayer&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=amigo.flappy.shooter&#34;&gt;Flappy Shooter&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://google.com&#34;&gt;Solitaire&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This Service is provided by &lt;strong&gt;FireZen Studio&lt;/strong&gt; at no cost and is intended for use as is.&lt;/p&gt;&#xA;&lt;p&gt;This page is used to inform visitors regarding our polices with the collection, use, and disclosure of personal information if anyone diceded to use .&lt;/p&gt;&#xA;&lt;p&gt;If you choose our service, then you agree to the collection and use of information in relation to the policy. The personal information that our collected is used to providing and improving the services. We will not use or share your information with anyone exception as described in the policy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Terms</title>
-      <link>https://firezen-studio.github.io/dev-web/terms/</link>
+      <link>https://firezen-studio.github.io/terms/</link>
       <pubDate>Tue, 22 Apr 2025 20:17:06 +0800</pubDate>
-      <guid>https://firezen-studio.github.io/dev-web/terms/</guid>
+      <guid>https://firezen-studio.github.io/terms/</guid>
       <description>&lt;p&gt;By downloading or using the apps, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to &lt;strong&gt;FireZen Studio&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
